@@ -13,3 +13,6 @@ NOTE: You can use your styling layout by this file to your website.
   width: 50px;
   line-height: 50px;
 }
+.iq-coming .big-text {
+  line-height: initial;
+}
