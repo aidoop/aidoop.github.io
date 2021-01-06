@@ -82,7 +82,7 @@
   /* line 59, ../sass/screen.scss */
   .one-page-has-left .header-section ul li.hover > a,
   .one-page-has-left .header-section ul li.active > a {
-    color: #6b81d2;
+    color: #fff;
   }
   /* line 66, ../sass/screen.scss */
   .one-page-has-left .header-section ul li.hover > .arrow:after {
