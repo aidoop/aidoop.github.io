@@ -1,0 +1,15 @@
+.slotholder::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-color: rgba(67, 78, 159, 0.2);
+}
+h5 {
+  margin-top: 5px;
+}
+#section3 p {
+  margin-left: 15px;
+}
