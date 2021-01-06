@@ -16,3 +16,8 @@ NOTE: You can use your styling layout by this file to your website.
 .iq-coming .big-text {
   line-height: initial;
 }
+@media only screen and (max-width: 1000px) {
+  .header-section #menu > ul li.active > a {
+    color: #fff;
+  }
+}
