@@ -13,3 +13,13 @@ h5 {
 #section3 p {
   margin-left: 15px;
 }
+.header-section ul li a {
+  color: #fff !important;
+}
+.header-section .logo.mar-4 {
+  margin-top: 0;
+}
+.header-section .logo {
+  position: absolute;
+  width: 80px;
+}
