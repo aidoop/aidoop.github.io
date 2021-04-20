@@ -666,9 +666,9 @@ a:hover.text-hover-primary {
   line-height: 30px;
 }
 
-.line-height-4 {
+/* .line-height-4 {
   line-height: 40px;
-}
+} */
 
 .line-height-5 {
   line-height: 50px;
@@ -1984,21 +1984,18 @@ a.read-more.primary:hover {
 }
 .iconlist li {
   padding: 0px;
-  margin: 0 0 15px 0;
+  margin: 0 0 10px 0;
   display: block;
-  font-size: 16px;
-  line-height: 23px;
+  font-size: 15px;
+  color: #333;
 }
 .iconlist li i {
   color: #6b81d2;
-  padding: 0 15px 0 0;
+  padding: 0 5px 0 0;
 }
 .iconlist.gyellow li i {
   color: #6b81d2;
-  padding: 0 15px 0 0;
-}
-.iconlist.dark li i {
-  color: #101010;
+  padding: 0 5px 0 0;
 }
 .iconlist.less-margin li {
   margin: 0 0 13px 0;
@@ -2514,7 +2511,7 @@ a.topbar-btn.active {
   padding-bottom: 40px;
 }
 .sec-title-container.less-padding-4 {
-  padding-bottom: 30px;
+  padding-bottom: 15px;
 }
 .sec-title-container.less-padding-5 {
   padding-bottom: 20px;

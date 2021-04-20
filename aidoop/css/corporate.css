@@ -29,7 +29,7 @@ Design and Developed by: Codelayers
  ------------------------------ */
 
 .ce-title-top-text {
-  color: #888;
+  color: #6b81d2;
 }
 .ce-title-top-text.grey-1 {
   color: #999;
@@ -56,7 +56,7 @@ Design and Developed by: Codelayers
 .ce-title-line {
   width: 12%;
   height: 2px;
-  background-color: #04b5d5;
+  background-color: #6b81d2;
   margin: 15px auto 0 auto;
 }
 .ce-title-line.white {
@@ -65,7 +65,7 @@ Design and Developed by: Codelayers
 .ce-title-line.align-left {
   width: 12%;
   height: 2px;
-  background-color: #04b5d5;
+  background-color: #6b81d2;
   margin: 15px 88% 0 auto;
 }
 .ce-title-line.dark {
